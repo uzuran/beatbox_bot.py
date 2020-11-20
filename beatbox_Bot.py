@@ -16,4 +16,4 @@ async def on_message(message):
     if message.content.startswith('$hello'):
         await message.channel.send('Hello! Check this out : https://www.facebook.com/czechbeatboxcommunity/ ')
 
-client.run('Nzc4OTk2NTM2Mzk0NjQ1NTA0.X7aHDw.DV90LdPhJjo06kWI2hatjo63xQ8')
+client.run('')
